@@ -12,6 +12,8 @@ Actualmente estoy trabajando como técnico administrador de sistemas en la sede 
 
 Desde 2024, a raíz de un nuevo proyecto de creación de aplicaciones de trabajo con Power Apps para la mejora de flujos de trabajo a nivel nacional entre las sedes de la Seguridad Social, me empiezo a interesar por el desarrollo de aplicaciones con los lenguajes de programación tradicionales. De manera autodidacta y con la ayuda de cursos online homologados y la IA de ChatGPT para corregir mi código, estoy desarrollando pequeños proyectos web desde la perspectiva Frontend para incorporarlos a mi Github y poder construir un porfolio que permita demostrar mis conocimientos adquiridos en el ámbito de la programación.
 
+</br>
+
 Para consultar de manera más detenida y específica mi trayectoria profesional, te invito a consultar mi perfil en LinkedIn
 
 </br>
