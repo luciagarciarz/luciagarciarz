@@ -1,4 +1,4 @@
-# ¡Hola! mi nombre es Lucía 👋 y quiero hablarte un poco sobre mí:
+# ¡Hola! 👋 mi nombre es Lucía y quiero hablarte un poco sobre mí:
 
 </br>
 
