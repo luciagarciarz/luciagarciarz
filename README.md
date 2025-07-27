@@ -8,9 +8,9 @@ Actualmente estoy trabajando como técnico administrador de sistemas en la sede 
 
 </br>
 
-### 2024 - actualidad WEB DEVELOPER JUNIOR
+### 2024 - actualidad WEB DEVELOPER JUNIOR y ANDROID DEVELOPER
 
-Desde 2024, a raíz de un nuevo proyecto de creación de aplicaciones de trabajo con Power Apps para la mejora de flujos de trabajo a nivel nacional entre las sedes de la Seguridad Social, me empiezo a interesar por el desarrollo de aplicaciones con los lenguajes de programación tradicionales. De manera autodidacta y con la ayuda de cursos online homologados para el aprendizaje de desarrollo de aplicaciones web y la IA de ChatGPT para corregir mi código, estoy desarrollando pequeños proyectos web desde la perspectiva Frontend para incorporarlos a mi Github y poder construir un porfolio que permita demostrar mis conocimientos adquiridos en el ámbito de la programación.
+Desde 2024, a raíz de un nuevo proyecto de creación de aplicaciones de trabajo con Power Apps para la mejora de flujos de trabajo a nivel nacional entre las sedes de la Seguridad Social, me empiezo a interesar por el desarrollo de aplicaciones con los lenguajes de programación tradicionales. De manera autodidacta y con la ayuda de cursos online homologados para el aprendizaje de desarrollo de aplicaciones web y Android y la IA de ChatGPT para corregir mi código, me he aventurado a la creación de mi propio proyecto personal llamado Sprite's Project, una startup de videojuegos con estética de 8bits para la Google Play Store.
 
 </br>
 
