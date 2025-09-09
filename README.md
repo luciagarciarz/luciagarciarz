@@ -2,6 +2,7 @@
 <br>
 Desde 2024, a raíz de un nuevo proyecto de creación de aplicaciones de trabajo con Power Apps para la mejora de flujos de trabajo a nivel nacional entre las sedes de la empresa donde estoy trabajando, me empiezo a interesar por el desarrollo de aplicaciones en la web con los lenguajes de programación tradicionales. De manera autodidacta y con la ayuda de cursos online homologados para el aprendizaje de desarrollo de aplicaciones web y Android, me he aventurado en la búsqueda de un nuevo proyecto laboral en esta rama de la informática y de manena paralalela, en la creación de mi propio proyecto personal llamado Sprite's Project, una startup de videojuegos Android con estética 8bits para la Google Play Store.
 <br>
+<br>
 Si quieres contactar conmigo, escríbeme a mi correo luciagarciarz@protonmail.com
 <br>
 <br>
