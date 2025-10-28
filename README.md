@@ -15,4 +15,4 @@ Y además, aquí te dejo mi tarjeta de Roadmap.sh donde puedes ver mis avances e
 <br>
 <br>
 <br>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67576659ecc889bb0d9528a6?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67576659ecc889bb0d9528a6?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
