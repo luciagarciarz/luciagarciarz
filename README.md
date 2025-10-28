@@ -12,4 +12,5 @@ Si quieres contactar conmigo, escríbeme a mi correo luciagarciarz@protonmail.co
 Aquí te dejo mi tarjeta de Roadmap.sh donde puedes ver mi roadmap como FrontEnd y Android Developer:
 <br>
 <br>
-[![roadmap.sh](https://roadmap.sh/card/wide/67576659ecc889bb0d9528a6?variant=dark)](https://roadmap.sh)
+[[![roadmap.sh](https://roadmap.sh/card/wide/67576659ecc889bb0d9528a6?variant=dark)](https://roadmap.sh)
+](https://roadmap.sh/card/wide/67576659ecc889bb0d9528a6?variant=dark)
