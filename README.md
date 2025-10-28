@@ -14,7 +14,7 @@ Aquí te dejo mi tarjeta de Roadmap.sh donde puedes ver mi roadmap como FrontEnd
 <br>
 <br>
 <br>
-/td>
+</td>
     <td align="right" valign="top">
       <!-- Enlace envolviendo la imagen: usa la URL directa al SVG si es posible -->
       <a href="https://roadmap.sh" target="_blank" rel="noopener noreferrer">
