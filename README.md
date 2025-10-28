@@ -14,4 +14,12 @@ Aquí te dejo mi tarjeta de Roadmap.sh donde puedes ver mi roadmap como FrontEnd
 <br>
 <br>
 <br>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67576659ecc889bb0d9528a6?variant=dark" alt="roadmap.sh"/></a>
+/td>
+    <td align="right" valign="top">
+      <!-- Enlace envolviendo la imagen: usa la URL directa al SVG si es posible -->
+      <a href="https://roadmap.sh" target="_blank" rel="noopener noreferrer">
+        <img src="https://roadmap.sh/card/wide/67576659ecc889bb0d9528a6.svg?variant=dark" alt="roadmap.sh" width="360">
+      </a>
+    </td>
+  </tr>
+</table>
