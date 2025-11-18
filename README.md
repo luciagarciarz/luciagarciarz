@@ -6,9 +6,6 @@ Desde 2024, a raíz de un nuevo proyecto de creación de aplicaciones de trabajo
 Si quieres contactar conmigo, escríbeme a mi correo luciagarciarz@protonmail.com
 <br>
 <br>
-Y además, aquí te dejo mi tarjeta de Roadmap.sh donde puedes ver mis avances en mi aprendizaje como  FrontEnd Developer:
-<br>
-<br>
 <br>
 ¡NOS VEMOS EN GITHUB!
 <br>
