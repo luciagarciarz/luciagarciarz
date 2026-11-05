@@ -48,21 +48,6 @@
 
 
 
----
-
-<br />
-
-<h4 align="center">Contacto</h4>
-
-<br />
-<!-- Botones de contacto redondeados -->
-<p align="center">
-  <a href="mailto:luciagarciarz@protonmail.com">
-    <img src="./assets/email.svg" width="38" align="center" alt="Email" />
-  </a>
-  &nbsp;Contáctame por email
-</p>
-
 
 
 
